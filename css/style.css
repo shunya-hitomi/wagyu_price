@@ -2,6 +2,10 @@ body {
   background-color: #343a40;
 }
 
+.row {
+  margin-bottom: 30px;
+}
+
 a {
   color: #fff;
 }
@@ -78,10 +82,6 @@ footer {
 }
 
 @media screen and (max-width:576px) {
-  .row {
-    margin-bottom: 30px;
-  }
-
   #page-top {
     display: block;
   }
